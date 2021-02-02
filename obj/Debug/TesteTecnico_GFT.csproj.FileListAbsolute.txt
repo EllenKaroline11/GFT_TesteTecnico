@@ -1,0 +1,7 @@
+C:\Users\Ellen Karol\Desktop\TesteTecnico_GFT\TesteTecnico_GFT\bin\Debug\TesteTecnico_GFT.exe.config
+C:\Users\Ellen Karol\Desktop\TesteTecnico_GFT\TesteTecnico_GFT\bin\Debug\TesteTecnico_GFT.exe
+C:\Users\Ellen Karol\Desktop\TesteTecnico_GFT\TesteTecnico_GFT\bin\Debug\TesteTecnico_GFT.pdb
+C:\Users\Ellen Karol\Desktop\TesteTecnico_GFT\TesteTecnico_GFT\obj\Debug\TesteTecnico_GFT.csprojAssemblyReference.cache
+C:\Users\Ellen Karol\Desktop\TesteTecnico_GFT\TesteTecnico_GFT\obj\Debug\TesteTecnico_GFT.csproj.CoreCompileInputs.cache
+C:\Users\Ellen Karol\Desktop\TesteTecnico_GFT\TesteTecnico_GFT\obj\Debug\TesteTecnico_GFT.exe
+C:\Users\Ellen Karol\Desktop\TesteTecnico_GFT\TesteTecnico_GFT\obj\Debug\TesteTecnico_GFT.pdb
